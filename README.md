@@ -6,6 +6,6 @@ This branch is the mobile version of the main project.
 
 ![Example Photo 1](https://github.com/DATA35DELETE/AllMyRepoFoto/blob/main/Data-s-Book-on-Demo/mobile/örnek%20resim%201.png)
 
-![Example Photo 2](https://github.com/DATA35DELETE/AllMyRepoFoto/blob/main/Data-s-Book-on-Demo/mobile/örnek%20resim%203.png)
+![Example Photo 2](https://github.com/DATA35DELETE/AllMyRepoFoto/blob/main/Data-s-Book-on-Demo/mobile/örnek%20resim%202.png)
 
-![Example Photo 3](https://github.com/DATA35DELETE/AllMyRepoFoto/blob/main/Data-s-Book-on-Demo/mobile/örnek%20resim%204.png)
+![Example Photo 3](https://github.com/DATA35DELETE/AllMyRepoFoto/blob/main/Data-s-Book-on-Demo/mobile/örnek%20resim%203.png)
