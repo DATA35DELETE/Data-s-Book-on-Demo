@@ -305,14 +305,6 @@ footer div p {
         max-width: 100%;
     }
     
-    /* Ana içerik container'ı */
-    #mainDiv {
-        width: 98%;
-        padding: 8px;
-        margin-left: -8px;
-        margin-top: 80px; /* Sabit başlık için boşluk */
-    }
-    
     /* Footer - mobilde düzenleme */
     footer {
         position: relative;
