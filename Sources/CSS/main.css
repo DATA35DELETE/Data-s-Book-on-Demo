@@ -100,7 +100,6 @@ li {
     font-family:'Times New Roman', Times, serif;
     border-radius: 10px;
     width: fit-content;
-    list-style-type: square;
     list-style-position: inside;
     text-align: left;
     display: list-item;
