@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "database.company.datasbookondemo"
+    namespace = "database.company.datasbookondemov11"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "database.company.datasbookondemo"
+        applicationId = "database.company.datasbookondemov11"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

@@ -1,4 +1,4 @@
-package database.company.datasbookondemo;
+package database.company.datasbookondemov11;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("database.company.datasbookondemo", appContext.getPackageName());
+        assertEquals("database.company.datasbookondemov11", appContext.getPackageName());
     }
 }

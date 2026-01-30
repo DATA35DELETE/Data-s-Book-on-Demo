@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Data's Book on Demo"
+rootProject.name = "Data s Book on Demo v1.1"
 include(":app")
  
